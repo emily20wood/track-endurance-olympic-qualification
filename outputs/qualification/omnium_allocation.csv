@@ -1,0 +1,50 @@
+gender,country,discipline,total_points,rank,ranking_status,continent,qualification_route,qualification_status,qualification_margin,is_automatic,qualification_note
+Men,POR,OMN,1000,1,Provisional,Europe,Madison automatic,Qualified,819,TRUE,Qualified automatically through Madison.
+Men,BEL,OMN,900,2,Provisional,Europe,Madison automatic,Qualified,719,TRUE,Qualified automatically through Madison.
+Men,GER,OMN,800,3,Provisional,Europe,Omnium ranking,Qualified,619,FALSE,Qualified through the overall Omnium ranking.
+Men,ESP,OMN,750,4,Provisional,Europe,Madison automatic,Qualified,569,TRUE,Qualified automatically through Madison.
+Men,ITA,OMN,700,5,Provisional,Europe,Omnium ranking,Qualified,519,FALSE,Qualified through the overall Omnium ranking.
+Men,GBR,OMN,650,6,Provisional,Europe,Omnium ranking,Qualified,469,FALSE,Qualified through the overall Omnium ranking.
+Men,DEN,OMN,600,7,Provisional,Europe,Omnium ranking,Qualified,419,FALSE,Qualified through the overall Omnium ranking.
+Men,FRA,OMN,550,8,Provisional,Europe,Omnium ranking,Qualified,369,FALSE,Qualified through the overall Omnium ranking.
+Men,NED,OMN,500,9,Provisional,Europe,Madison automatic,Qualified,319,TRUE,Qualified automatically through Madison.
+Men,CZE,OMN,450,10,Provisional,Europe,Omnium ranking,Qualified,269,FALSE,Qualified through the overall Omnium ranking.
+Men,JPN,OMN,410,11,Provisional,Asia,Madison automatic,Qualified,229,TRUE,Qualified automatically through Madison.
+Men,POL,OMN,380,12,Provisional,Europe,Omnium ranking,Qualified,199,FALSE,Qualified through the overall Omnium ranking.
+Men,AUT,OMN,350,13,Provisional,Europe,Madison automatic,Qualified,169,TRUE,Qualified automatically through Madison.
+Men,NZL,OMN,320,14,Provisional,Oceania,Omnium ranking,Qualified,139,FALSE,Qualified through the overall Omnium ranking.
+Men,AUS,OMN,290,15,Provisional,Oceania,Omnium ranking,Qualified,109,FALSE,Qualified through the overall Omnium ranking.
+Men,VEN,OMN,260,16,Provisional,Pan America,Omnium ranking,Qualified,79,FALSE,Qualified through the overall Omnium ranking.
+Men,CHN,OMN,197,17,Provisional,Asia,Omnium ranking,Qualified,16,FALSE,Qualified through the overall Omnium ranking.
+Men,TUR,OMN,181,18,Provisional,Europe,Omnium ranking,Qualified,0,FALSE,Qualified through the overall Omnium ranking.
+Men,SUI,OMN,165,19,Provisional,Europe,Not qualified,Not qualified,-16,FALSE,"Would have qualified through the overall Omnium ranking, but was displaced to ensure continental representation."
+Men,KAZ,OMN,149,20,Provisional,Asia,Not qualified,Not qualified,-32,FALSE,Did not secure an Omnium qualification place.
+Men,AIN,OMN,133,21,Provisional,Europe,Not qualified,Not qualified,-48,FALSE,Did not secure an Omnium qualification place.
+Men,ARG,OMN,117,22,Provisional,Pan America,Not qualified,Not qualified,-64,FALSE,Did not secure an Omnium qualification place.
+Men,MEX,OMN,117,22,Provisional,Pan America,Not qualified,Not qualified,-64,FALSE,Did not secure an Omnium qualification place.
+Men,USA,OMN,0,24,Provisional,Pan America,Not qualified,Not qualified,-181,FALSE,Did not secure an Omnium qualification place.
+Men,Reserved - Africa,OMN,NA,NA,NA,Africa,Reserved continental place,Reserved,NA,FALSE,No eligible country was available from this continent; the place remains reserved.
+Women,GBR,OMN,1000,1,Provisional,Europe,Omnium ranking,Qualified,819,FALSE,Qualified through the overall Omnium ranking.
+Women,JPN,OMN,900,2,Provisional,Asia,Madison automatic,Qualified,719,TRUE,Qualified automatically through Madison.
+Women,DEN,OMN,800,3,Provisional,Europe,Madison automatic,Qualified,619,TRUE,Qualified automatically through Madison.
+Women,FRA,OMN,750,4,Provisional,Europe,Omnium ranking,Qualified,569,FALSE,Qualified through the overall Omnium ranking.
+Women,IRL,OMN,700,5,Provisional,Europe,Omnium ranking,Qualified,519,FALSE,Qualified through the overall Omnium ranking.
+Women,ITA,OMN,650,6,Provisional,Europe,Omnium ranking,Qualified,469,FALSE,Qualified through the overall Omnium ranking.
+Women,BEL,OMN,600,7,Provisional,Europe,Madison automatic,Qualified,419,TRUE,Qualified automatically through Madison.
+Women,NOR,OMN,550,8,Provisional,Europe,Omnium ranking,Qualified,369,FALSE,Qualified through the overall Omnium ranking.
+Women,CZE,OMN,500,9,Provisional,Europe,Omnium ranking,Qualified,319,FALSE,Qualified through the overall Omnium ranking.
+Women,POR,OMN,450,10,Provisional,Europe,Omnium ranking,Qualified,269,FALSE,Qualified through the overall Omnium ranking.
+Women,SUI,OMN,410,11,Provisional,Europe,Madison automatic,Qualified,229,TRUE,Qualified automatically through Madison.
+Women,MEX,OMN,380,12,Provisional,Pan America,Omnium ranking,Qualified,199,FALSE,Qualified through the overall Omnium ranking.
+Women,CHN,OMN,350,13,Provisional,Asia,Omnium ranking,Qualified,169,FALSE,Qualified through the overall Omnium ranking.
+Women,ESP,OMN,320,14,Provisional,Europe,Madison automatic,Qualified,139,TRUE,Qualified automatically through Madison.
+Women,HKG,OMN,290,15,Provisional,Asia,Omnium ranking,Qualified,109,FALSE,Qualified through the overall Omnium ranking.
+Women,GER,OMN,260,16,Provisional,Europe,Omnium ranking,Qualified,79,FALSE,Qualified through the overall Omnium ranking.
+Women,UZB,OMN,197,17,Provisional,Asia,Not qualified,Not qualified,16,FALSE,"Would have qualified through the overall Omnium ranking, but was displaced to ensure continental representation."
+Women,NZL,OMN,181,18,Provisional,Oceania,Omnium ranking,Qualified,0,FALSE,Qualified through the overall Omnium ranking.
+Women,USA,OMN,165,19,Provisional,Pan America,Madison automatic,Qualified,-16,TRUE,Qualified automatically through Madison.
+Women,LTU,OMN,149,20,Provisional,Europe,Not qualified,Not qualified,-32,FALSE,Did not secure an Omnium qualification place.
+Women,AUS,OMN,133,21,Provisional,Oceania,Not qualified,Not qualified,-48,FALSE,Did not secure an Omnium qualification place.
+Women,TTO,OMN,117,22,Provisional,Pan America,Not qualified,Not qualified,-64,FALSE,Did not secure an Omnium qualification place.
+Women,EGY,OMN,101,23,Provisional,Africa,Continental representation,Qualified,-80,FALSE,Selected as the highest-ranked eligible country from Africa to ensure continental representation.
+Women,NED,OMN,0,24,Provisional,Europe,Not qualified,Not qualified,-181,FALSE,Did not secure an Omnium qualification place.

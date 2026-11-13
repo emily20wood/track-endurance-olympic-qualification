@@ -1,0 +1,37 @@
+gender,country,discipline,total_points,rank,ranking_status,qualification_route,qualification_status,qualification_margin
+Men,DEN,MAD,2000,1,Provisional,Team Pursuit automatic,Qualified,1430
+Men,POR,MAD,1800,2,Provisional,Madison ranking,Qualified,1230
+Men,GER,MAD,1600,3,Provisional,Team Pursuit automatic,Qualified,1030
+Men,BEL,MAD,1500,4,Provisional,Madison ranking,Qualified,930
+Men,ITA,MAD,1400,5,Provisional,Team Pursuit automatic,Qualified,830
+Men,GBR,MAD,1300,6,Provisional,Team Pursuit automatic,Qualified,730
+Men,NZL,MAD,1200,7,Provisional,Team Pursuit automatic,Qualified,630
+Men,NED,MAD,1100,8,Provisional,Madison ranking,Qualified,530
+Men,AUT,MAD,1000,9,Provisional,Madison ranking,Qualified,430
+Men,FRA,MAD,900,10,Provisional,Team Pursuit automatic,Qualified,330
+Men,ESP,MAD,820,11,Provisional,Madison ranking,Qualified,250
+Men,USA,MAD,760,12,Provisional,Team Pursuit automatic,Qualified,190
+Men,JPN,MAD,570,13,Provisional,Madison ranking,Qualified,0
+Men,SUI,MAD,522,14,Provisional,Not qualified,Not qualified,-48
+Men,AUS,MAD,474,15,Provisional,Team Pursuit automatic,Qualified,-96
+Men,POL,MAD,426,16,Provisional,Not qualified,Not qualified,-144
+Men,CZE,MAD,394,17,Provisional,Not qualified,Not qualified,-176
+Men,KAZ,MAD,394,17,Provisional,Not qualified,Not qualified,-176
+Women,GBR,MAD,2000,1,Provisional,Team Pursuit automatic,Qualified,1430
+Women,FRA,MAD,1800,2,Provisional,Team Pursuit automatic,Qualified,1230
+Women,JPN,MAD,1600,3,Provisional,Madison ranking,Qualified,1030
+Women,NZL,MAD,1500,4,Provisional,Team Pursuit automatic,Qualified,930
+Women,DEN,MAD,1400,5,Provisional,Madison ranking,Qualified,830
+Women,ITA,MAD,1300,6,Provisional,Team Pursuit automatic,Qualified,730
+Women,BEL,MAD,1200,7,Provisional,Madison ranking,Qualified,630
+Women,NED,MAD,1100,8,Provisional,Team Pursuit automatic,Qualified,530
+Women,SUI,MAD,1000,9,Provisional,Madison ranking,Qualified,430
+Women,AUS,MAD,900,10,Provisional,Team Pursuit automatic,Qualified,330
+Women,CHN,MAD,820,11,Provisional,Team Pursuit automatic,Qualified,250
+Women,USA,MAD,760,12,Provisional,Madison ranking,Qualified,190
+Women,ESP,MAD,570,13,Provisional,Madison ranking,Qualified,0
+Women,CZE,MAD,522,14,Provisional,Not qualified,Not qualified,-48
+Women,POL,MAD,474,15,Provisional,Not qualified,Not qualified,-96
+Women,HKG,MAD,426,16,Provisional,Not qualified,Not qualified,-144
+Women,GER,MAD,394,17,Provisional,Team Pursuit automatic,Qualified,-176
+Women,CHI,MAD,362,18,Provisional,Not qualified,Not qualified,-208

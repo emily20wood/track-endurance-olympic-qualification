@@ -1,0 +1,121 @@
+gender,country,discipline,total_points,rank,ranking_status,qualification_status,qualification_margin,qualification_route,continent,is_automatic,qualification_note
+Men,DEN,TP,2000,1,Provisional,Qualified,900,Team Pursuit ranking,NA,NA,NA
+Men,ITA,TP,1800,2,Provisional,Qualified,700,Team Pursuit ranking,NA,NA,NA
+Men,GBR,TP,1600,3,Provisional,Qualified,500,Team Pursuit ranking,NA,NA,NA
+Men,FRA,TP,1500,4,Provisional,Qualified,400,Team Pursuit ranking,NA,NA,NA
+Men,AUS,TP,1400,5,Provisional,Qualified,300,Team Pursuit ranking,NA,NA,NA
+Men,NZL,TP,1300,6,Provisional,Qualified,200,Team Pursuit ranking,NA,NA,NA
+Men,USA,TP,1200,7,Provisional,Qualified,100,Team Pursuit ranking,NA,NA,NA
+Men,GER,TP,1100,8,Provisional,Qualified,0,Team Pursuit ranking,NA,NA,NA
+Men,CHN,TP,1000,9,Provisional,Not qualified,-100,Not qualified,NA,NA,NA
+Men,CAN,TP,900,10,Provisional,Not qualified,-200,Not qualified,NA,NA,NA
+Men,JPN,TP,820,11,Provisional,Not qualified,-280,Not qualified,NA,NA,NA
+Men,SUI,TP,760,12,Provisional,Not qualified,-340,Not qualified,NA,NA,NA
+Men,BEL,TP,700,13,Provisional,Not qualified,-400,Not qualified,NA,NA,NA
+Men,KAZ,TP,640,14,Provisional,Not qualified,-460,Not qualified,NA,NA,NA
+Men,AIN,TP,580,15,Provisional,Not qualified,-520,Not qualified,NA,NA,NA
+Men,ESP,TP,520,16,Provisional,Not qualified,-580,Not qualified,NA,NA,NA
+Men,HKG,TP,404,17,Provisional,Not qualified,-696,Not qualified,NA,NA,NA
+Men,INA,TP,372,18,Provisional,Not qualified,-728,Not qualified,NA,NA,NA
+Women,GBR,TP,2000,1,Provisional,Qualified,900,Team Pursuit ranking,NA,NA,NA
+Women,ITA,TP,1800,2,Provisional,Qualified,700,Team Pursuit ranking,NA,NA,NA
+Women,GER,TP,1600,3,Provisional,Qualified,500,Team Pursuit ranking,NA,NA,NA
+Women,NED,TP,1500,4,Provisional,Qualified,400,Team Pursuit ranking,NA,NA,NA
+Women,NZL,TP,1400,5,Provisional,Qualified,300,Team Pursuit ranking,NA,NA,NA
+Women,CHN,TP,1300,6,Provisional,Qualified,200,Team Pursuit ranking,NA,NA,NA
+Women,FRA,TP,1200,7,Provisional,Qualified,100,Team Pursuit ranking,NA,NA,NA
+Women,AUS,TP,1100,8,Provisional,Qualified,0,Team Pursuit ranking,NA,NA,NA
+Women,USA,TP,1000,9,Provisional,Not qualified,-100,Not qualified,NA,NA,NA
+Women,BEL,TP,900,10,Provisional,Not qualified,-200,Not qualified,NA,NA,NA
+Women,JPN,TP,820,11,Provisional,Not qualified,-280,Not qualified,NA,NA,NA
+Women,BLR,TP,760,12,Provisional,Not qualified,-340,Not qualified,NA,NA,NA
+Women,SUI,TP,700,13,Provisional,Not qualified,-400,Not qualified,NA,NA,NA
+Women,AIN,TP,640,14,Provisional,Not qualified,-460,Not qualified,NA,NA,NA
+Women,POL,TP,580,15,Provisional,Not qualified,-520,Not qualified,NA,NA,NA
+Women,IRL,TP,520,16,Provisional,Not qualified,-580,Not qualified,NA,NA,NA
+Women,CHI,TP,404,17,Provisional,Not qualified,-696,Not qualified,NA,NA,NA
+Men,DEN,MAD,2000,1,Provisional,Qualified,1430,Team Pursuit automatic,NA,NA,NA
+Men,POR,MAD,1800,2,Provisional,Qualified,1230,Madison ranking,NA,NA,NA
+Men,GER,MAD,1600,3,Provisional,Qualified,1030,Team Pursuit automatic,NA,NA,NA
+Men,BEL,MAD,1500,4,Provisional,Qualified,930,Madison ranking,NA,NA,NA
+Men,ITA,MAD,1400,5,Provisional,Qualified,830,Team Pursuit automatic,NA,NA,NA
+Men,GBR,MAD,1300,6,Provisional,Qualified,730,Team Pursuit automatic,NA,NA,NA
+Men,NZL,MAD,1200,7,Provisional,Qualified,630,Team Pursuit automatic,NA,NA,NA
+Men,NED,MAD,1100,8,Provisional,Qualified,530,Madison ranking,NA,NA,NA
+Men,AUT,MAD,1000,9,Provisional,Qualified,430,Madison ranking,NA,NA,NA
+Men,FRA,MAD,900,10,Provisional,Qualified,330,Team Pursuit automatic,NA,NA,NA
+Men,ESP,MAD,820,11,Provisional,Qualified,250,Madison ranking,NA,NA,NA
+Men,USA,MAD,760,12,Provisional,Qualified,190,Team Pursuit automatic,NA,NA,NA
+Men,JPN,MAD,570,13,Provisional,Qualified,0,Madison ranking,NA,NA,NA
+Men,SUI,MAD,522,14,Provisional,Not qualified,-48,Not qualified,NA,NA,NA
+Men,AUS,MAD,474,15,Provisional,Qualified,-96,Team Pursuit automatic,NA,NA,NA
+Men,POL,MAD,426,16,Provisional,Not qualified,-144,Not qualified,NA,NA,NA
+Men,CZE,MAD,394,17,Provisional,Not qualified,-176,Not qualified,NA,NA,NA
+Men,KAZ,MAD,394,17,Provisional,Not qualified,-176,Not qualified,NA,NA,NA
+Women,GBR,MAD,2000,1,Provisional,Qualified,1430,Team Pursuit automatic,NA,NA,NA
+Women,FRA,MAD,1800,2,Provisional,Qualified,1230,Team Pursuit automatic,NA,NA,NA
+Women,JPN,MAD,1600,3,Provisional,Qualified,1030,Madison ranking,NA,NA,NA
+Women,NZL,MAD,1500,4,Provisional,Qualified,930,Team Pursuit automatic,NA,NA,NA
+Women,DEN,MAD,1400,5,Provisional,Qualified,830,Madison ranking,NA,NA,NA
+Women,ITA,MAD,1300,6,Provisional,Qualified,730,Team Pursuit automatic,NA,NA,NA
+Women,BEL,MAD,1200,7,Provisional,Qualified,630,Madison ranking,NA,NA,NA
+Women,NED,MAD,1100,8,Provisional,Qualified,530,Team Pursuit automatic,NA,NA,NA
+Women,SUI,MAD,1000,9,Provisional,Qualified,430,Madison ranking,NA,NA,NA
+Women,AUS,MAD,900,10,Provisional,Qualified,330,Team Pursuit automatic,NA,NA,NA
+Women,CHN,MAD,820,11,Provisional,Qualified,250,Team Pursuit automatic,NA,NA,NA
+Women,USA,MAD,760,12,Provisional,Qualified,190,Madison ranking,NA,NA,NA
+Women,ESP,MAD,570,13,Provisional,Qualified,0,Madison ranking,NA,NA,NA
+Women,CZE,MAD,522,14,Provisional,Not qualified,-48,Not qualified,NA,NA,NA
+Women,POL,MAD,474,15,Provisional,Not qualified,-96,Not qualified,NA,NA,NA
+Women,HKG,MAD,426,16,Provisional,Not qualified,-144,Not qualified,NA,NA,NA
+Women,GER,MAD,394,17,Provisional,Qualified,-176,Team Pursuit automatic,NA,NA,NA
+Women,CHI,MAD,362,18,Provisional,Not qualified,-208,Not qualified,NA,NA,NA
+Men,POR,OMN,1000,1,Provisional,Qualified,819,Madison automatic,Europe,TRUE,Qualified automatically through Madison.
+Men,BEL,OMN,900,2,Provisional,Qualified,719,Madison automatic,Europe,TRUE,Qualified automatically through Madison.
+Men,GER,OMN,800,3,Provisional,Qualified,619,Omnium ranking,Europe,FALSE,Qualified through the overall Omnium ranking.
+Men,ESP,OMN,750,4,Provisional,Qualified,569,Madison automatic,Europe,TRUE,Qualified automatically through Madison.
+Men,ITA,OMN,700,5,Provisional,Qualified,519,Omnium ranking,Europe,FALSE,Qualified through the overall Omnium ranking.
+Men,GBR,OMN,650,6,Provisional,Qualified,469,Omnium ranking,Europe,FALSE,Qualified through the overall Omnium ranking.
+Men,DEN,OMN,600,7,Provisional,Qualified,419,Omnium ranking,Europe,FALSE,Qualified through the overall Omnium ranking.
+Men,FRA,OMN,550,8,Provisional,Qualified,369,Omnium ranking,Europe,FALSE,Qualified through the overall Omnium ranking.
+Men,NED,OMN,500,9,Provisional,Qualified,319,Madison automatic,Europe,TRUE,Qualified automatically through Madison.
+Men,CZE,OMN,450,10,Provisional,Qualified,269,Omnium ranking,Europe,FALSE,Qualified through the overall Omnium ranking.
+Men,JPN,OMN,410,11,Provisional,Qualified,229,Madison automatic,Asia,TRUE,Qualified automatically through Madison.
+Men,POL,OMN,380,12,Provisional,Qualified,199,Omnium ranking,Europe,FALSE,Qualified through the overall Omnium ranking.
+Men,AUT,OMN,350,13,Provisional,Qualified,169,Madison automatic,Europe,TRUE,Qualified automatically through Madison.
+Men,NZL,OMN,320,14,Provisional,Qualified,139,Omnium ranking,Oceania,FALSE,Qualified through the overall Omnium ranking.
+Men,AUS,OMN,290,15,Provisional,Qualified,109,Omnium ranking,Oceania,FALSE,Qualified through the overall Omnium ranking.
+Men,VEN,OMN,260,16,Provisional,Qualified,79,Omnium ranking,Pan America,FALSE,Qualified through the overall Omnium ranking.
+Men,CHN,OMN,197,17,Provisional,Qualified,16,Omnium ranking,Asia,FALSE,Qualified through the overall Omnium ranking.
+Men,TUR,OMN,181,18,Provisional,Qualified,0,Omnium ranking,Europe,FALSE,Qualified through the overall Omnium ranking.
+Men,SUI,OMN,165,19,Provisional,Not qualified,-16,Not qualified,Europe,FALSE,"Would have qualified through the overall Omnium ranking, but was displaced to ensure continental representation."
+Men,KAZ,OMN,149,20,Provisional,Not qualified,-32,Not qualified,Asia,FALSE,Did not secure an Omnium qualification place.
+Men,AIN,OMN,133,21,Provisional,Not qualified,-48,Not qualified,Europe,FALSE,Did not secure an Omnium qualification place.
+Men,ARG,OMN,117,22,Provisional,Not qualified,-64,Not qualified,Pan America,FALSE,Did not secure an Omnium qualification place.
+Men,MEX,OMN,117,22,Provisional,Not qualified,-64,Not qualified,Pan America,FALSE,Did not secure an Omnium qualification place.
+Men,USA,OMN,0,24,Provisional,Not qualified,-181,Not qualified,Pan America,FALSE,Did not secure an Omnium qualification place.
+Men,Reserved - Africa,OMN,NA,NA,NA,Reserved,NA,Reserved continental place,Africa,FALSE,No eligible country was available from this continent; the place remains reserved.
+Women,GBR,OMN,1000,1,Provisional,Qualified,819,Omnium ranking,Europe,FALSE,Qualified through the overall Omnium ranking.
+Women,JPN,OMN,900,2,Provisional,Qualified,719,Madison automatic,Asia,TRUE,Qualified automatically through Madison.
+Women,DEN,OMN,800,3,Provisional,Qualified,619,Madison automatic,Europe,TRUE,Qualified automatically through Madison.
+Women,FRA,OMN,750,4,Provisional,Qualified,569,Omnium ranking,Europe,FALSE,Qualified through the overall Omnium ranking.
+Women,IRL,OMN,700,5,Provisional,Qualified,519,Omnium ranking,Europe,FALSE,Qualified through the overall Omnium ranking.
+Women,ITA,OMN,650,6,Provisional,Qualified,469,Omnium ranking,Europe,FALSE,Qualified through the overall Omnium ranking.
+Women,BEL,OMN,600,7,Provisional,Qualified,419,Madison automatic,Europe,TRUE,Qualified automatically through Madison.
+Women,NOR,OMN,550,8,Provisional,Qualified,369,Omnium ranking,Europe,FALSE,Qualified through the overall Omnium ranking.
+Women,CZE,OMN,500,9,Provisional,Qualified,319,Omnium ranking,Europe,FALSE,Qualified through the overall Omnium ranking.
+Women,POR,OMN,450,10,Provisional,Qualified,269,Omnium ranking,Europe,FALSE,Qualified through the overall Omnium ranking.
+Women,SUI,OMN,410,11,Provisional,Qualified,229,Madison automatic,Europe,TRUE,Qualified automatically through Madison.
+Women,MEX,OMN,380,12,Provisional,Qualified,199,Omnium ranking,Pan America,FALSE,Qualified through the overall Omnium ranking.
+Women,CHN,OMN,350,13,Provisional,Qualified,169,Omnium ranking,Asia,FALSE,Qualified through the overall Omnium ranking.
+Women,ESP,OMN,320,14,Provisional,Qualified,139,Madison automatic,Europe,TRUE,Qualified automatically through Madison.
+Women,HKG,OMN,290,15,Provisional,Qualified,109,Omnium ranking,Asia,FALSE,Qualified through the overall Omnium ranking.
+Women,GER,OMN,260,16,Provisional,Qualified,79,Omnium ranking,Europe,FALSE,Qualified through the overall Omnium ranking.
+Women,UZB,OMN,197,17,Provisional,Not qualified,16,Not qualified,Asia,FALSE,"Would have qualified through the overall Omnium ranking, but was displaced to ensure continental representation."
+Women,NZL,OMN,181,18,Provisional,Qualified,0,Omnium ranking,Oceania,FALSE,Qualified through the overall Omnium ranking.
+Women,USA,OMN,165,19,Provisional,Qualified,-16,Madison automatic,Pan America,TRUE,Qualified automatically through Madison.
+Women,LTU,OMN,149,20,Provisional,Not qualified,-32,Not qualified,Europe,FALSE,Did not secure an Omnium qualification place.
+Women,AUS,OMN,133,21,Provisional,Not qualified,-48,Not qualified,Oceania,FALSE,Did not secure an Omnium qualification place.
+Women,TTO,OMN,117,22,Provisional,Not qualified,-64,Not qualified,Pan America,FALSE,Did not secure an Omnium qualification place.
+Women,EGY,OMN,101,23,Provisional,Qualified,-80,Continental representation,Africa,FALSE,Selected as the highest-ranked eligible country from Africa to ensure continental representation.
+Women,NED,OMN,0,24,Provisional,Not qualified,-181,Not qualified,Europe,FALSE,Did not secure an Omnium qualification place.
