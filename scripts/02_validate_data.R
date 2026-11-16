@@ -73,3 +73,83 @@ if (nrow(invalid_placings) > 0) {
 }
 
 message("All basic data validation checks passed!")
+
+
+
+
+# ------------------------------------------
+# 7. AUTOMATIC COMPETITION STATUS
+# ------------------------------------------
+
+# A competition is completed once results have
+# been entered into results.csv.
+
+# Regular competitions: one status per competition
+regular_competition_status <- competitions |>
+  filter(competition_type != "Continental Championships") |>
+  mutate(continent = NA_character_) |>
+  left_join(
+    results |>
+      distinct(competition_id) |>
+      mutate(has_results = TRUE),
+    by = "competition_id"
+  ) |>
+  mutate(
+    status = if_else(
+      coalesce(has_results, FALSE),
+      "Completed",
+      "Upcoming"
+    )
+  ) |>
+  select(competition_id, competition_type, year, continent, status)
+
+# Continental Championships: one status per continent
+continental_competition_status <- competitions |>
+  filter(competition_type == "Continental Championships") |>
+  crossing(
+    continent = c(
+      "Africa",
+      "Asia",
+      "Europe",
+      "Oceania",
+      "Pan America"
+    )
+  ) |>
+  left_join(
+    results |>
+      inner_join(
+        countries |> select(country, continent),
+        by = "country"
+      ) |>
+      distinct(competition_id, continent) |>
+      mutate(has_results = TRUE),
+    by = c("competition_id", "continent")
+  ) |>
+  mutate(
+    status = if_else(
+      coalesce(has_results, FALSE),
+      "Completed",
+      "Upcoming"
+    )
+  ) |>
+  select(competition_id, competition_type, year, continent, status)
+
+# Combine both status tables
+competition_status <- bind_rows(
+  regular_competition_status,
+  continental_competition_status
+)
+
+# Save competition status
+dir.create(
+  here::here("data", "processed"),
+  recursive = TRUE,
+  showWarnings = FALSE
+)
+
+readr::write_csv(
+  competition_status,
+  here::here("data", "processed", "competition_status.csv")
+)
+
+message("Competition statuses calculated successfully!")

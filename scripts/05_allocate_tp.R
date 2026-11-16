@@ -29,7 +29,7 @@ allocate_tp <- function(tp_rankings, places = 8) {
       ) {
         warning(
           "Team Pursuit tie detected at qualification cutoff for ",
-          unique(gender_data$gender),
+          .y$gender,
           "."
         )
       }
