@@ -391,13 +391,13 @@ ui <- fluidPage(
       
       tags$ul(
         tags$li(
-            "The 2027 and 2028 editions of the respective continental championships"
+            "The 2027 and 2028 editions of the respective continental championships."
           ),
         tags$li(
-            "The best two results in the UCI Track World Cup in each of the seasons 2027 and 2028"
+            "The best two results in the UCI Track World Cup in each of the seasons 2027 and 2028."
         ),
         tags$li(
-            "The 2026 and 2027 UCI Track World Championships (elite categories)"
+            "The 2026 and 2027 UCI Track World Championships (elite categories)."
           )
         ),
       h5("Points scales"),
@@ -409,21 +409,21 @@ ui <- fluidPage(
       tags$ul(
         tags$li(
           
-            "Continental championships points multipled by 0.75"
+            "Continental championships points multipled by 0.75."
           ),
         tags$li(
           
-            "UCI Track World Cup points as is"
+            "UCI Track World Cup points as is."
           ),
         tags$li(
-            "UCI Track World Championships points as is"
+            "UCI Track World Championships points as is."
           )
         ),
       
       h5("Points allocation by competition and discipline"),
       
       p(
-        "The tables below shows the points allocation for World Championships, World Cups and Continental Championships (with the *0.75 multiplier.) You can select Team Pursuit, Madison or Omnium to see the differences."
+        "The tables below shows the points allocation for World Championships, World Cups and Continental Championships (with the *0.75 multiplier.) You can select Team Pursuit, Madison or Omnium to see the differences in points between disciplines."
       ),
       
       selectInput(
@@ -445,14 +445,14 @@ ui <- fluidPage(
       h5("Quota places"),
       
       p(
-        "This is how the rankings work for each discipline."
+        "This is how the rankings work for each discipline:"
       ),
       
       h5("Team Pursuit"),
       
       tags$ul(
         tags$li(
-            "The eight highest -ranked NOCs per gender in the UCI Track Olympic Qualification Ranking – Team Pursuit will each have a team of four athletes qualify."
+            "The eight highest-ranked NOCs per gender in the UCI Track Olympic Qualification Ranking – Team Pursuit will each have a team of four athletes qualify."
           )
         ),
       
@@ -460,7 +460,7 @@ ui <- fluidPage(
       
       tags$ul(
         tags$li(
-            "The six best -ranked NOCs in the UCI Track Olympic Qualification Ranking – Madison that have not obtained any quota places in the team pursuit will each have a team of two athletes qualify."
+            "The six best-ranked NOCs in the UCI Track Olympic Qualification Ranking – Madison that have not obtained any quota places in the team pursuit will each have a team of two athletes qualify."
           ),
         tags$li(
             "In addition, NOCs that have qualified in the team pursuit have the right to enter one team of two athletes in the madison."
@@ -474,7 +474,7 @@ ui <- fluidPage(
       
       tags$ul(
         tags$li(
-            "The 13 highest -ranked NOCs in the UCI Track Olympic Qualification Ranking – Omnium – adhering to the minimum allocation per continent as specified under point 1 of the “Special Provisions” – that have not directly obtained any quota places in the madison will each obtain one quota place."
+            "The 13 highest-ranked NOCs in the UCI Track Olympic Qualification Ranking – Omnium – adhering to the minimum allocation per continent as specified under point 1 of the “Special Provisions” – that have not directly obtained any quota places in the madison will each obtain one quota place."
           ),
         tags$li(
             "In addition, the six NOCs qualified in the madison have the right to enter one athlete in the omnium."
